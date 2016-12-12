@@ -9,6 +9,7 @@ Distributed under the Boost Software License, Version 1.0.
 
 
 asd-c-wrapper uses [Altseed](https://github.com/altseed/Altseed), which is licensed by the MIT license.  
+https://github.com/altseed/Altseed/blob/master/LICENSE  
 
 > Copyright (C) 2013-2016 Altseed
 
